@@ -1,0 +1,15 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./backend/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chitranjan Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6"
+  }
+}
