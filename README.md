@@ -1,7 +1,7 @@
 # MySite #
 This is a learning to understand the concept of Web development.
 
-# Technology used #
+##Technology used
 1. Javascript
 2. Node.js
 3. File System as database
