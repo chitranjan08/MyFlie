@@ -1,0 +1,1 @@
+loadPage(LOGIN_PAGE);

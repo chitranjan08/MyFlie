@@ -1,0 +1,1 @@
+exports.db_path = __dirname + "/db/";
